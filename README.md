@@ -17,6 +17,7 @@ Solution:
 1. try following code
 `cd ~/.oh-my-zsh
 git init`
+
 2.if following error pop out.
 
 `xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun`
